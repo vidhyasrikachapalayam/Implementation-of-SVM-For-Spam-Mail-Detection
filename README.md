@@ -73,6 +73,7 @@ Encoding:
 
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/d3717f36-ac19-4bfe-979a-362a933dc9eb)
 
+
 Head():
 
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/0a694537-2052-41e4-8cd5-b5f3208ddaf9)
@@ -92,6 +93,8 @@ Prediction of y:
 Accuracy:
 
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/9d8650ab-54e5-42f2-9029-ef8a7e96d603)
+
+
 
 ## Result:
 
