@@ -22,11 +22,11 @@ To write a program to implement the SVM For Spam Mail Detection.
 
 ## Program:
 ```
-/*
+
 Program to implement the SVM For Spam Mail Detection..
 Developed by: vidhyasri.k
 RegisterNumber: 212222230170 
-*/
+
 import chardet
 file='spam.csv'
 with open (file,'rb') as rawdata:
@@ -67,21 +67,27 @@ accuracy
 
 ## Output:
 Encoding:
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/d3717f36-ac19-4bfe-979a-362a933dc9eb)
 
 Head():
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/0a694537-2052-41e4-8cd5-b5f3208ddaf9)
 
 Info():
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/db21e1d4-7505-4f18-a042-5e8859340cfb)
 
 isnull().sum():
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/ca8f8fe6-9ebf-445a-a881-2a0fb9a7a4c7)
 
 Prediction of y:
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/7c965be3-d28d-4f71-b416-2cfbb0f7b4ca)
 
 Accuracy:
+
 ![image](https://github.com/vidhyasrikachapalayam/Implementation-of-SVM-For-Spam-Mail-Detection/assets/119477817/9d8650ab-54e5-42f2-9029-ef8a7e96d603)
 
 
